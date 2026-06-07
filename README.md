@@ -122,10 +122,8 @@ Future additions to this framework include:
 
 # 👨‍💻 Author
 
-**Tauqeer Mustafa**
+**Tauqeer Mustafa Inc.**
 
-BS Cybersecurity Student  
-Air University Islamabad
 
 *"Building practical cybersecurity solutions through governance, risk management, and security-focused documentation."*
 
